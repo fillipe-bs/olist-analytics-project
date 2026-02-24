@@ -8,7 +8,7 @@ The solution includes:
 - analytical view creation in PostgreSQL
 - dashboard development in Power BI focused on Sales and Payments analysis
 
-Dataset:
+Dataset:  
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ---
@@ -23,5 +23,32 @@ A solução inclui:
 - criação de views analíticas no PostgreSQL
 - desenvolvimento de dashboards no Power BI focados em análises de Vendas e Pagamentos
 
-Dataset:
+Dataset:  
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+---
+
+# Project Screenshots
+
+## Data Model - Star Schema
+Visual representation of the Star Schema data model used in this project for analytical purposes.
+
+![Star Schema](assets/screenshots/star_schema.png) 
+## Sales Overview Dashboard
+Power BI dashboard providing an overview of sales metrics, highlighting revenue, orders, and customer insights.
+
+![Sales Overview](assets/screenshots/sales_overview.png) 
+
+---
+
+# Prints do Projeto
+
+## Modelo de Dados - Star Schema
+Representação visual do modelo de dados Star Schema utilizado no projeto para fins analíticos.
+
+![Modelo de Dados](assets/screenshots/star_schema.png) 
+
+## Dashboard Sales Overview
+Dashboard no Power BI mostrando visão geral das métricas de vendas, destacando receita, pedidos e insights de clientes.
+
+![Dashboard Sales Overview](assets/screenshots/sales_overview.png)  
