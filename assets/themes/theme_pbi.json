@@ -1,0 +1,43 @@
+{
+    "name": "Olist Ecommerce",
+
+    "dataColors": [
+        "#6B8FDF",
+        "#0A4EE4",
+        "#E64E36",
+        "#F6F6F6",
+        "#605E5C"
+    ],
+
+    "textClasses": {
+        "label": {
+            "fontFace": "Consolas",
+            "fontSize": 10
+        },
+        "callout": {
+            "fontFace": "Consolas",
+            "fontSize": 10
+        },
+        "title": {
+            "fontFace": "Consolas",
+            "fontSize": 10
+        }
+    },
+
+    "visualStyles": {
+        "*": {
+            "title": [{
+                "show": true,
+                "fontFamily": "Consolas",
+                "fontSize": 10,
+                "color": { "solid": { "color": "#605E5C" } }
+            }],
+            "subtitle": [{
+                "show": true,
+                "fontFamily": "Consolas",
+                "fontSize": 8,
+                "color": { "solid": { "color": "#605E5C" } }
+            }]
+        }
+    }
+}
